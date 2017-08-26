@@ -3,6 +3,8 @@
 
 Insights about the projects we run within our organization. Originally, it is a report that of secret or confidential and meant to be seen only by the person to whom it is directed.
 
+Project Dashboard include these features.
+
 ## How to install
 
 ## How to use
@@ -12,4 +14,6 @@ Insights about the projects we run within our organization. Originally, it is a 
 ## Credits
 
 ## License
+
+
 
